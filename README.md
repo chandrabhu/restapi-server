@@ -1,1 +1,4 @@
-# restapi-server
+-- Copy and paste Format.php, rest.php , RestController.php in libraries of project
+-- Copy and paste rest_controller_lang.ph in langauage -- english.
+-- run composer require chriskacerguis/codeigniter-restserver
+-- put rest.php in config.
